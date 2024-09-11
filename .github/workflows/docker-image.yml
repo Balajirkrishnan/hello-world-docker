@@ -26,4 +26,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
         push: true
-        tags: user/hello-world-docker:latest
+        tags: balajirkrishnan/hello-world-docker:latest
